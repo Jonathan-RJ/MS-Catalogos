@@ -11,7 +11,7 @@ import lombok.Data;
 @Builder
 public class UsuarioRequestDto {
 
-    @NotBlank(message = "El nombre no puede estar vacío")
+    @NotBlank(message = "El nombre no puede estar vacío llenarlo por favor")
     @Size(min = 3, max = 50, message = "El nombre debe tener entre 3 y 50 caracteres")
     private String nombre;
 
