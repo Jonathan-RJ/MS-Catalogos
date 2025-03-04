@@ -1,0 +1,9 @@
+{"log_data":{"fecha":2025-03-02 12:07:32,137,"Mensaje":"Initializing Spring DispatcherServlet 'dispatcherServlet'","pid":"31000","UUID":"","TiempoTotal":"","servicios":[http-nio-8082-exec-1]}}
+{"log_data":{"fecha":2025-03-02 12:07:32,284,"Mensaje":"----INICIA EL LLAMADO AL RECURSO :/----","pid":"31000","UUID":"0532720503194fd196ddafc4d569fcd6","TiempoTotal":"","servicios":[http-nio-8082-exec-1]}}
+{"log_data":{"fecha":2025-03-02 12:07:32,307,"Mensaje":"----TERMINA EL LLAMADO AL RECURSO :/----404","pid":"31000","UUID":"0532720503194fd196ddafc4d569fcd6","TiempoTotal":"23","servicios":[http-nio-8082-exec-1]}}
+{"log_data":{"fecha":2025-03-02 12:07:32,376,"Mensaje":"----INICIA EL LLAMADO AL RECURSO :/error----","pid":"31000","UUID":"5c7c896871f847639a32c517235df87a","TiempoTotal":"","servicios":[http-nio-8082-exec-1]}}
+{"log_data":{"fecha":2025-03-02 12:07:32,533,"Mensaje":"----TERMINA EL LLAMADO AL RECURSO :/error----404","pid":"31000","UUID":"5c7c896871f847639a32c517235df87a","TiempoTotal":"157","servicios":[http-nio-8082-exec-1]}}
+{"log_data":{"fecha":2025-03-02 12:07:41,808,"Mensaje":"----INICIA EL LLAMADO AL RECURSO :/----","pid":"31000","UUID":"c8b4b75dda6245a58b46a017d994264a","TiempoTotal":"","servicios":[http-nio-8082-exec-3]}}
+{"log_data":{"fecha":2025-03-02 12:07:41,808,"Mensaje":"----TERMINA EL LLAMADO AL RECURSO :/----404","pid":"31000","UUID":"c8b4b75dda6245a58b46a017d994264a","TiempoTotal":"0","servicios":[http-nio-8082-exec-3]}}
+{"log_data":{"fecha":2025-03-02 12:07:41,811,"Mensaje":"----INICIA EL LLAMADO AL RECURSO :/error----","pid":"31000","UUID":"9967e5291aca4d04a368a57bb1709b24","TiempoTotal":"","servicios":[http-nio-8082-exec-3]}}
+{"log_data":{"fecha":2025-03-02 12:07:41,817,"Mensaje":"----TERMINA EL LLAMADO AL RECURSO :/error----404","pid":"31000","UUID":"9967e5291aca4d04a368a57bb1709b24","TiempoTotal":"4","servicios":[http-nio-8082-exec-3]}}
